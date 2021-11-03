@@ -11,5 +11,5 @@ $arr = [
 ];
 
 $obj  = new MyClass();
-echo "<pre>";
-print_r($obj->sortProduct($arr, 'sort-order'));
+
+include_once('index.html');
